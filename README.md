@@ -5,3 +5,5 @@ Things, notes and thoughts that were gathered along the way from studying the DC
 
 - Background story on [[How the JF-17 was Born.canvas]]
 
+- DIY Gear notes and ideas on [[DIY Gear]]
+
