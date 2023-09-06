@@ -1,8 +1,8 @@
 ## Steam
-- ~~Persian Golf
 - ~~Mi-24P
+## Webstore
+- ~~Persian Golf~~ 2000
 - AJS-37
 - MiG-21
-## Webstore
-- JF-17 (with 50% new customer discount)
+- JF-17 (with 50% new customer discount) 3990
 - if enough Miles: Su-27/F-15C
