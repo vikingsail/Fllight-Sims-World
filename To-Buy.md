@@ -7,5 +7,4 @@
 - MiG-19 
 - JF-17 (with 50% new customer discount) 3990
 - if enough Miles: Su-27/F-15C
-
-![[Pasted image 20230906213304.png]]
+![[Pasted image 20230906220035.png]]

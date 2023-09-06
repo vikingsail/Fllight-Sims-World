@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddf3e9d5e997488d",
+        "id": "7aca975acb22c1c4",
         "type": "tabs",
         "children": [
           {
-            "id": "aded0af453de5b99",
+            "id": "a69569dc1e6fadf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14f6d9c5f6643a46",
+  "active": "a69569dc1e6fadf7",
   "lastOpenFiles": [
+    "reference/Pasted image 20230906220035.png",
     "reference/Pasted image 20230906213304.png",
+    "To-Buy.md",
     "How the JF-17 was Born.canvas",
     "DIY Gear.md",
     "BMS.md",
-    "To-Buy.md",
     "README.md",
     "JF-17 HOTAS.canvas",
     "Pasted image 20230816120923.png"
