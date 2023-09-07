@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Buy.md",
+                "file": "Purchase List and To-Do's.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Buy.md",
+                "file": "Purchase List and To-Do's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-Buy.md",
+                "file": "Purchase List and To-Do's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Buy.md"
+                "file": "Purchase List and To-Do's.md"
               }
             }
           }
@@ -148,14 +149,14 @@
   },
   "active": "a69569dc1e6fadf7",
   "lastOpenFiles": [
+    "README.md",
+    "Purchase List and To-Do's.md",
+    "BMS.md",
+    "DIY Gear.md",
     "JF-17 HOTAS.canvas",
-    "To-Buy.md",
     "reference/Pasted image 20230906220035.png",
     "reference/Pasted image 20230906213304.png",
     "How the JF-17 was Born.canvas",
-    "DIY Gear.md",
-    "BMS.md",
-    "README.md",
     "Pasted image 20230816120923.png"
   ]
 }
