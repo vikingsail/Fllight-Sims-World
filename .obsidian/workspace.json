@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7aca975acb22c1c4",
+        "id": "5e3e19edf53acc33",
         "type": "tabs",
         "children": [
           {
-            "id": "a69569dc1e6fadf7",
+            "id": "de5b6fd5dde92e8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Purchase List and To-Do's.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Purchase List and To-Do's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Purchase List and To-Do's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Purchase List and To-Do's.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a69569dc1e6fadf7",
+  "active": "de5b6fd5dde92e8e",
   "lastOpenFiles": [
-    "README.md",
     "Purchase List and To-Do's.md",
+    "README.md",
     "BMS.md",
     "DIY Gear.md",
     "JF-17 HOTAS.canvas",
