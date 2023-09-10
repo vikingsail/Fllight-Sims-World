@@ -1,9 +1,5 @@
 ## Steam
-<<<<<<< HEAD
-- ~~Mi-24P
-=======
 - ~~Mi-24P~~
->>>>>>> refs/heads/master
 ## Webstore
 - Persian Gulf 2000
 - AJS-37 2400
