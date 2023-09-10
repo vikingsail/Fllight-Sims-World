@@ -1,8 +1,10 @@
+## To-Do
+- find good PG servers (to make the purchase worth)
 ## Steam
 - ~~Mi-24P~~
 ## Webstore
 - Persian Gulf 2000
-- AJS-37 2400
+- ~~AJS-37 2400~~
 - MiG-21 2490
 - Syria 2990
 - JF-17 (with 50% new customer discount) 3990
