@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Just JF-17 Things
 Things, notes and thoughts that were gathered along the way from studying the DCS JF-17 Thunder module
 
@@ -19,5 +18,4 @@ This vault started as a JF-17 study notebook. Slowly it became my knowledge base
 ## BMS
 - [BMS](BMS.md)
 
->>>>>>> refs/heads/master
 
