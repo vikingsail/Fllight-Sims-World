@@ -7,6 +7,4 @@ This vault started as a JF-17 study notebook. Slowly it became my knowledge base
 ## DIY
 - DIY Gear notes and ideas on [[DIY Gear]]
 ## BMS
-- [BMS](BMS.md)
-
-
+- [[BMS]]
