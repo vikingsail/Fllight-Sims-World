@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Purchase List and To-Do's.md",
+                "file": "AJS-37 Viggen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Purchase List and To-Do's.md",
+                "file": "AJS-37 Viggen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Purchase List and To-Do's.md",
+                "file": "AJS-37 Viggen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Purchase List and To-Do's.md"
+                "file": "AJS-37 Viggen.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "de5b6fd5dde92e8e",
   "lastOpenFiles": [
-    "reference/DCS JF-17 Flight Manual CN.pdf",
     "reference/Pasted image 20230906220035.png",
     "reference/Wingtip Sabre II.png",
     "reference/Super 7.png",
-    "How the JF-17 was Born.canvas",
-    "Purchase List and To-Do's.md",
     "AJS-37 Viggen.md",
+    "Purchase List and To-Do's.md",
+    "JF-17 HOTAS.canvas",
+    "How the JF-17 was Born.canvas",
+    "reference/DCS JF-17 Flight Manual CN.pdf",
     "README.md",
     "BMS.md",
     "DIY Gear.md",
-    "JF-17 HOTAS.canvas",
     "reference/Pasted image 20230906213304.png",
     "Pasted image 20230816120923.png"
   ]
