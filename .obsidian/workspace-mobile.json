@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -144,11 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87c274d7b436f694",
+  "active": "de76b93b3a870b34",
   "lastOpenFiles": [
     "Purchase List and To-Do's.md",
-    "AJS-37 Viggen.md",
     "README.md",
+    "AJS-37 Viggen.md",
     "BMS.md",
     "reference/DCS JF-17 Flight Manual CN.pdf"
   ]
