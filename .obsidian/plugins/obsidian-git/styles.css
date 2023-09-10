@@ -8,6 +8,14 @@
     }
 }
 
+<<<<<<< HEAD
+=======
+.workspace-leaf-content[data-type='git-view'] .button-border {
+    border: 2px solid var(--interactive-accent);
+    border-radius: var(--radius-s);
+}
+
+>>>>>>> refs/heads/master
 .workspace-leaf-content[data-type='git-view'] .view-content {
     padding: 0;
 }

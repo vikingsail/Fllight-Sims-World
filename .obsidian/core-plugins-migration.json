@@ -25,6 +25,10 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
+<<<<<<< HEAD
   "sync": false,
   "properties": true
+=======
+  "sync": false
+>>>>>>> refs/heads/master
 }
