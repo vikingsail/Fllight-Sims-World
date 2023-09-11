@@ -1,4 +1,5 @@
 ## To-Do
+- Consider which FC3 module to buy
 - Send Deka Ironworks about the typo on P.17:
 	罗罗公司对合作的态度十分积极，对中方要求的资料有求必应，甚至介绍了 更新的 EJ200 发动**机机**
 ## Steam
