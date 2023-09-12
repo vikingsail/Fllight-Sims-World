@@ -4,3 +4,5 @@
 
 [Quick&Dirty Start-Up](https://www.youtube.com/watch?v=AQWl-H6hEDc)
 
+[Precision LD Bombing](https://youtu.be/dnkXSQzq90k?si=OWVNjBKLzQjkmOnJ)
+

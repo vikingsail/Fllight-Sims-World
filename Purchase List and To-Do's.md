@@ -1,5 +1,4 @@
 ## To-Do
-- Consider which FC3 module to buy
 - Send Deka Ironworks about the typo on P.17:
 	罗罗公司对合作的态度十分积极，对中方要求的资料有求必应，甚至介绍了 更新的 EJ200 发动**机机**
 ## Steam
@@ -10,7 +9,7 @@
 - MiG-21 2490
 - ~~Syria 2990~~
 - JF-17 (with 50% new customer discount) 3990
-- if enough Miles: Su-27/F-15C/MiG-29) (need 6000 Miles)
+- if enough Miles: ~~Su-27/F-15C~~/MiG-29 (need 6000 Miles)
 ![[Pasted image 20230906220035.png]]
 ## I have several accounts on DCS site, how to combine them?
 We can transfer All your orders and serials from unused account to Main one.   
