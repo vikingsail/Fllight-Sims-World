@@ -6,3 +6,5 @@
 
 [Precision LD Bombing](https://youtu.be/dnkXSQzq90k?si=OWVNjBKLzQjkmOnJ)
 
+[Viggen Ground Avoidance](https://www.youtube.com/watch?v=G2wH95IbiTE)
+
