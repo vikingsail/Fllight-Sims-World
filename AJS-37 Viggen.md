@@ -1,3 +1,9 @@
+Q&A:
+- 2 landing/taxi light switch positions seem to be the same?
+- countermeasures?
+- radio?
+- jammers?
+
 [In-Depth Start Up](https://youtu.be/hf5Dax8sIVE?si=D4hjpyaqm9BE2bRm)
 
 [Radio](https://youtu.be/nagSMapqKio?si=_XJeDN1W4LW0xtSp)
