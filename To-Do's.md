@@ -1,6 +1,13 @@
 ## To-Do
 - Send Deka Ironworks about the typo on P.17:
 	罗罗公司对合作的态度十分积极，对中方要求的资料有求必应，甚至介绍了 更新的 EJ200 发动**机机**
+- empty bindings:
+	- A-4E D-pad left+right, stick x-axis
+	- AJS-37 stick
+	- FC3 stick
+- IL-2:
+	- zooming in/out
+	- combo with shoulder keys
 ## Steam
 - ~~Mi-24P~~
 ## Webstore
