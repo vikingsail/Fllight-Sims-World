@@ -1,5 +1,8 @@
 ## To-Do
-- Heatblur Viggen: numpad 0 no animation
+- Heatblur Viggen: 
+	- numpad 0 lacking animation
+	- SPAK button light up before main power is on
+	- 2 landing/taxi light switch positions seem to be the same?
 - Send Deka Ironworks about the typo on P.17:
 	罗罗公司对合作的态度十分积极，对中方要求的资料有求必应，甚至介绍了 更新的 EJ200 发动**机机**
 - empty bindings:
