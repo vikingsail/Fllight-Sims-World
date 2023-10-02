@@ -4,7 +4,7 @@ This vault started as a JF-17 study notebook. Slowly it became my knowledge base
 - HOTAS Logic on [[JF-17 HOTAS.canvas|JF-17 HOTAS]]
 - Background story on [[How the JF-17 was Born.canvas]]
 ## AJS-37 Viggen
-- Tutorials on [[AJS-37 Viggen]]
+- Notes on the [[AJS-37 Viggen]]
 ## DIY
 - DIY Gear notes and ideas on [[DIY Gear]]
 ## BMS

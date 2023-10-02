@@ -2,7 +2,7 @@ Q&A:
 - [x] countermeasures?
 - radio?
 - jammers?
-- AFK three modes (can increase thrust by 3.5%?)
+- [x] AFK three modes (can increase thrust by 3.5%?)
 	- gear in: cruise@550km/h
 	- gear out: keeping $\alpha$=12°@1G
 	- gear out + $\alpha$ 15.5 on: for shortest landing, only with <40% fuel.
