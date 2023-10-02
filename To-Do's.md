@@ -2,7 +2,7 @@
 - Heatblur Viggen: 
 	- numpad 0 lacking animation
 	- SPAK button light up before main power is on
-	- CL filter 0-25-50-75-100% colours unmatching the bottom
+	- CL filter 0-25-50-75-100% colours mismatching the bottom
 	- 2 landing/taxi light switch positions seem to be the same?
 - Send Deka Ironworks about the typo on P.17:
 	罗罗公司对合作的态度十分积极，对中方要求的资料有求必应，甚至介绍了 更新的 EJ200 发动**机机**
@@ -19,7 +19,7 @@
 		- ?reference button
 		- radar avoidance mode
 		- !radar range increase/decrease
-		- radar elevation up/down
+		- ?radar elevation up/down
 		- !radar MKR gain increase/decrease
 		- [ ] radar brightness increase/decrease
 		- [ ] EP13 brtns/ctrst up/down
