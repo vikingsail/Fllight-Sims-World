@@ -7,7 +7,7 @@
 	罗罗公司对合作的态度十分积极，对中方要求的资料有求必应，甚至介绍了 更新的 EJ200 发动**机机**
 - fix bindings:
 	- A-4E D-pad left+right, stick x-axis
-	- AJS-37 stick, T0, T1, T2
+	- AJS-37 stick, ~~T0, T1, TV~~, ~~trigger~~
 	- FC3 stick
 - IL-2:
 	- zooming in/out

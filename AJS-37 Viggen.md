@@ -1,9 +1,11 @@
 Q&A:
-- countermeasures?
+- [x] countermeasures?
 - radio?
 - jammers?
-- AFK (can increase thrust by 3.5%?)
-	- The AFK has three main modes
+- AFK three modes (can increase thrust by 3.5%?)
+	- gear in: cruise@550km/h
+	- gear out: keeping $\alpha$=12°@1G
+	- gear out + $\alpha$ 15.5 on: for shortest landing, only with <40% fuel.
 - AA radar
 - 
 [In-Depth Start Up](https://youtu.be/hf5Dax8sIVE?si=D4hjpyaqm9BE2bRm)
