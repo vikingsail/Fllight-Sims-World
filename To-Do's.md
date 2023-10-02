@@ -2,13 +2,24 @@
 - Heatblur Viggen: 
 	- numpad 0 lacking animation
 	- SPAK button light up before main power is on
-	- CL filter 0-25-50-75-100% colours unmatching the buttom
+	- CL filter 0-25-50-75-100% colours unmatching the bottom
 	- 2 landing/taxi light switch positions seem to be the same?
 - Send Deka Ironworks about the typo on P.17:
 	罗罗公司对合作的态度十分积极，对中方要求的资料有求必应，甚至介绍了 更新的 EJ200 发动**机机**
 - fix bindings:
 	- A-4E D-pad left+right, stick x-axis
-	- AJS-37 stick, ~~T0, T1, TV~~, ~~trigger~~
+	- AJS-37 
+		- stick, 
+		- ~~T0, T1, TV~~ T0??
+		- ~~trigger~~
+		- A0 A1 A2
+		- radar avoidance mode
+		- radar range +-
+		- radar elevation up/down
+		- radar brightness increase/decrease
+		- radar MKR gain increase/decrease
+		- countermeasure fast
+		- reference button
 	- FC3 stick
 - IL-2:
 	- zooming in/out
