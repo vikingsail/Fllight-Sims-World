@@ -9,7 +9,7 @@
 - fix bindings:
 	- A-4E D-pad left+right, stick x-axis
 	- AJS-37 
-		- stick, 
+		- stick
 		- ~~T0, T1, TV~~ T0??
 		- ~~trigger~~
 		- A0 A1 A2
