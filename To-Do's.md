@@ -7,25 +7,27 @@
 - Send Deka Ironworks about the typo on P.17:
 	罗罗公司对合作的态度十分积极，对中方要求的资料有求必应，甚至介绍了 更新的 EJ200 发动**机机**
 - fix bindings:
-	- A-4E D-pad left+right, stick x-axis
+	- A-4E
+		- [ ] D-pad left+right
+		- [ ] stick x-axis
 	- AJS-37 
-		- stick
+		- master modes, !weapon modes
 		- ~~T0, T1, TV~~ T0??
 		- ~~trigger~~
-		- A0 A1 A2
-		- !reference button 
-		- EP13 brtns/ctrst up/down
+		- !Countermeasures fast/int
+		- !A0 A1 A2
+		- ?reference button
 		- radar avoidance mode
-		- radar range +-
+		- !radar range increase/decrease
 		- radar elevation up/down
-		- radar brightness increase/decrease
-		- radar MKR gain increase/decrease
-		- countermeasure fast
-		- ?memory mode
+		- !radar MKR gain increase/decrease
+		- [ ] radar brightness increase/decrease
+		- [ ] EP13 brtns/ctrst up/down
+		- [ ] memory mode
 	- FC3 stick
 - IL-2:
-	- zooming in/out
-	- combo with shoulder keys
+	- [ ] zooming in/out
+	- [ ] combo with shoulder keys
 ## Steam
 - ~~Mi-24P~~
 ## Webstore
