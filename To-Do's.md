@@ -13,13 +13,15 @@
 		- ~~T0, T1, TV~~ T0??
 		- ~~trigger~~
 		- A0 A1 A2
+		- !reference button 
+		- EP13 brtns/ctrst up/down
 		- radar avoidance mode
 		- radar range +-
 		- radar elevation up/down
 		- radar brightness increase/decrease
 		- radar MKR gain increase/decrease
 		- countermeasure fast
-		- reference button
+		- ?memory mode
 	- FC3 stick
 - IL-2:
 	- zooming in/out
