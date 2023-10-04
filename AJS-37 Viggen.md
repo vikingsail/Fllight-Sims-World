@@ -7,6 +7,7 @@ Q&A:
 	- gear out: keeping $\alpha$=12°@1G
 	- gear out + $\alpha$ 15.5 on: for shortest landing, only with <40% fuel.
 - AA radar
+
 [Radar](https://youtu.be/6mSMYrgkXMU?si=Lq-jdSw_ZikcZikx)
 [In-Depth Start Up](https://youtu.be/hf5Dax8sIVE?si=D4hjpyaqm9BE2bRm)
 [Radio](https://youtu.be/nagSMapqKio?si=_XJeDN1W4LW0xtSp)
@@ -16,8 +17,8 @@ Q&A:
 
 #STOL: short takeoff and landing
 #high-bypass engine RM8A: modified JT-8D
-Dev: 1960
-Year of entering service: 1972
+	Dev: 1960
+	Year of entering service: 1972
 #nav dead-reckoning
 AJS-37: early 1990s update of AJ 37.
 	A: Attack

@@ -12,7 +12,7 @@
 		- [ ] stick x-axis
 	- AJS-37 
 		- master modes, !weapon modes
-		- ~~T0, T1, TV~~ T0??
+		- ~~T0, T1, TV~~ **T0**??
 		- ~~trigger~~
 		- !Countermeasures fast/int
 		- !A0 A1 A2
