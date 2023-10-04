@@ -1,5 +1,6 @@
 ## To-Do
 - Heatblur Viggen: 
+	- chaff auto release with RWR/U22???
 	- numpad 0 lacking animation
 	- SPAK button light up before main power is on
 	- CL filter 0-25-50-75-100% colours mismatching the bottom

@@ -1,6 +1,10 @@
 Q&A:
 - [x] countermeasures?
-	- 
+	- KB selector:
+		1. rapid
+		2. default (also for quick release botton)
+		3. slow
+		A. automatic: auto chaff rapid release when locked
 - [Radio](https://youtu.be/nagSMapqKio?si=_XJeDN1W4LW0xtSp)
 - jammers?
 - [x] AFK three modes (can increase thrust by 3.5%?)
