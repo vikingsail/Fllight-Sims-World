@@ -2,7 +2,7 @@ Q&A:
 - [x] countermeasures?
 	- KB selector:
 		1. rapid
-		2. default (also for quick release botton)
+		2. default (also for quick release bottom)
 		3. slow
 		A. automatic: auto chaff rapid release when locked
 - [Radio](https://youtu.be/nagSMapqKio?si=_XJeDN1W4LW0xtSp)
@@ -11,8 +11,8 @@ Q&A:
 	- gear in: cruise@550km/h
 	- gear out: keeping $\alpha$=12°@1G
 	- gear out + $\alpha$ 15.5 on: for shortest landing, only with <40% fuel.
-- (AA) [Radar](https://youtu.be/6mSMYrgkXMU?si=Lq-jdSw_ZikcZikx)
-- [Viggen Ground Avoidance](https://www.youtube.com/watch?v=G2wH95IbiTE)
+- [x] (AA) [Radar](https://youtu.be/6mSMYrgkXMU?si=Lq-jdSw_ZikcZikx)
+	- [Viggen Ground Avoidance](https://www.youtube.com/watch?v=G2wH95IbiTE)
 
 [In-Depth Start Up](https://youtu.be/hf5Dax8sIVE?si=D4hjpyaqm9BE2bRm)
 [Quick&Dirty Start-Up](https://www.youtube.com/watch?v=AQWl-H6hEDc)
