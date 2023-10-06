@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Brevity.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Brevity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Brevity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Brevity.md"
               }
             }
           },
@@ -150,8 +150,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "35e592155f75b6af",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -163,18 +172,18 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "974500ecc2abfb44",
   "lastOpenFiles": [
+    "README.md",
     "Brevity.md",
     "reference/Pasted image 20231006131739.png",
     "AJS-37 Viggen.md",
     "To-Do's.md",
-    "README.md",
     "JF-17 HOTAS.canvas",
     "DIY Gear.md",
     "How the JF-17 was Born.canvas",
