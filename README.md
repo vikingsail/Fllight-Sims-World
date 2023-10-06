@@ -1,5 +1,5 @@
 ## Just Flight Simmer Things
-This vault started as a JF-17 study notebook. Slowly it became my knowledge base for everything related to flight sims, in particular about DCS and DIY flight sim gear. 
+This an [Obsidian](https://obsidian.md/) vault started as a JF-17 study notebook. Slowly it became my knowledge base for everything related to flight sims, in particular about DCS and DIY flight sim gear. 
 .canvas files are supposed to be opened with [Obsidian](https://obsidian.md/)
 ## JF-17 Thunder
 - HOTAS Logic on [[JF-17 HOTAS.canvas|JF-17 HOTAS]]
