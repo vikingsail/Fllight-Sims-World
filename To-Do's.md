@@ -16,8 +16,9 @@
 		- ?master modes
 		- ~~T0, T1, TV~~ **T0**??
 		- ~~trigger~~
-		- !Countermeasures fast/int
+		**- !Countermeasures fast**
 		**- !A0 A1 A2**
+		- IR Quick Select
 		- ?reference button
 		- terrain avoidance mode
 		**- !radar range increase/decrease**
