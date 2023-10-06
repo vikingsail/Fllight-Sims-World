@@ -13,3 +13,5 @@ It started as a JF-17 study notebook which slowly became my knowledge base for e
 - [[BMS]]
 ## DIY
 - DIY Gear notes and ideas on [[DIY Gear]]
+## Tuuvas
+- If you start out with a gamepad/controller, check out [Tuuvas](https://imgur.com/a/0y4YsYp).
