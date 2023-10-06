@@ -12,20 +12,20 @@
 		- [ ] D-pad left+right
 		- [ ] stick x-axis
 	- AJS-37 
-		- **!weapon modes**
+		**- !weapon modes**
 		- ?master modes
 		- ~~T0, T1, TV~~ **T0**??
 		- ~~trigger~~
 		- !Countermeasures fast/int
-		- !A0 A1 A2
+		**- !A0 A1 A2**
 		- ?reference button
-		- radar avoidance mode
-		- !radar range increase/decrease
-		- ?radar elevation up/down
-		- !radar MKR gain increase/decrease
+		- terrain avoidance mode
+		**- !radar range increase/decrease**
+		- [ ] radar elevation up/down
+		**- !radar MKR gain increase/decrease**
 		- [ ] radar brightness increase/decrease
 		- [ ] EP13 brtns/ctrst up/down
-		- [ ] memory mode
+		- memory mode
 	- FC3 stick
 - IL-2:
 	- [ ] zooming in/out

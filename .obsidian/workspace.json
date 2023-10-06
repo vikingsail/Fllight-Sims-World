@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cf16b80ccd7ab0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brevity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do's.md",
+                "file": "Brevity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-Do's.md",
+                "file": "Brevity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do's.md"
+                "file": "Brevity.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "974500ecc2abfb44",
+  "active": "4cf16b80ccd7ab0c",
   "lastOpenFiles": [
-    "README.md",
     "To-Do's.md",
+    "Brevity.md",
+    "README.md",
     "AJS-37 Viggen.md",
     "JF-17 HOTAS.canvas",
     "DIY Gear.md",
