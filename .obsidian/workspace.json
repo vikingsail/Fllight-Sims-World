@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do's.md",
+                "file": "Brevity.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AJS-37 Viggen.md",
+                "file": "Brevity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AJS-37 Viggen.md",
+                "file": "Brevity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AJS-37 Viggen.md"
+                "file": "Brevity.md"
               }
             }
           },
@@ -169,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cf16b80ccd7ab0c",
+  "active": "974500ecc2abfb44",
   "lastOpenFiles": [
-    "README.md",
+    "reference/Pasted image 20231006131739.png",
     "AJS-37 Viggen.md",
     "Brevity.md",
     "To-Do's.md",
+    "README.md",
     "JF-17 HOTAS.canvas",
     "DIY Gear.md",
     "How the JF-17 was Born.canvas",
