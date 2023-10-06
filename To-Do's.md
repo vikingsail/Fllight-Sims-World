@@ -15,18 +15,18 @@
 		**- !weapon modes**
 		- ?master modes
 		- ~~T0, T1, TV~~ **T0**??
-		- ~~trigger~~
-		**- !Countermeasures fast**
-		**- !A0 A1 A2**
-		- IR Quick Select
-		- ?reference button
-		- terrain avoidance mode
+		- [x] ~~trigger~~
+		- [x] **- !Countermeasures fast**
+		- [x] **- !A0 A1 A2**
+		- [x] IR Quick Select
+		- [x] terrain avoidance mode
 		**- !radar range increase/decrease**
 		- [ ] radar elevation up/down
-		**- !radar MKR gain increase/decrease**
+		- [x] **- !radar MKR gain increase/decrease**
 		- [ ] radar brightness increase/decrease
 		- [ ] EP13 brtns/ctrst up/down
 		- memory mode
+		- reference button
 	- FC3 stick
 - IL-2:
 	- [ ] zooming in/out
