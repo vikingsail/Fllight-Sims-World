@@ -27,7 +27,7 @@
 		- [x] EP13 brtns/ctrst up/down
 		- [x] memory mode
 		- [x] reference button
-	- FC3 stick
+	- FC3 stick and keybind optimisation for fights
 - IL-2:
 	- [ ] zooming in/out
 	- [ ] combo with shoulder keys
