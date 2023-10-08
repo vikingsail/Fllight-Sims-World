@@ -5,7 +5,7 @@ Q&A:
 		2. default (also for quick release bottom)
 		3. slow
 		A. automatic: auto chaff rapid release when locked
-- [Radio](https://youtu.be/nagSMapqKio?si=_XJeDN1W4LW0xtSp)
+- [x] [Radio](https://youtu.be/nagSMapqKio?si=_XJeDN1W4LW0xtSp)
 - jammers?
 - [x] AFK three modes (can increase thrust by 3.5%?)
 	- gear in: cruise@550km/h
