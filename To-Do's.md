@@ -12,6 +12,7 @@
 		- [ ] D-pad left+right
 		- [ ] stick x-axis
 	- AJS-37 
+		- right D-pad left+right
 		- [x] **- !weapon modes**
 		- [x] ?master modes
 		- ~~T0, T1, TV~~ **T0**??
