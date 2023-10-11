@@ -12,7 +12,10 @@
 		- [ ] D-pad left+right
 		- [ ] stick x-axis
 	- AJS-37 
-		- LB + ABXY, RB + Dpad L/R, LB+RB+RDpadLB+RS, RB+RS, LB+RB+RS
+		- LB + ABXY, RB + Dpad L/R, LB+RB+RDpad, LB+RS, RB+RS, LB+RB+RS
+		- AFK, airbrake, reverser on/off
+		- FR22, FR24
+		- AP ATT, HOJD, Eject
 		- [x] **- !weapon modes**
 		- [x] ?master modes
 		- ~~T0, T1, TV~~ **T0**??
