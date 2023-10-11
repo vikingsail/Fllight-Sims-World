@@ -14,8 +14,8 @@
 	- AJS-37 
 		- LB + ABXY, RB + Dpad L/R, LB+RB+RDpad, LB+RS, RB+RS, LB+RB+RS
 		- AFK, airbrake, reverser on/off
-		- FR22, FR24
-		- AP ATT, HOJD, Eject
+		- [x] FR22, FR24
+		- [x] AP ATT, HOJD, Eject
 		- [x] **- !weapon modes**
 		- [x] ?master modes
 		- ~~T0, T1, TV~~ **T0**??
@@ -25,7 +25,7 @@
 		- [x] IR Quick Select
 		- [x] terrain avoidance mode
 		- [x] **- !radar range increase/decrease**
-		- [ ] radar elevation up/down
+		- [x] radar elevation up/down
 		- [x] **- !radar MKR gain increase/decrease**
 		- [x] radar brightness increase/decrease
 		- [x] EP13 brtns/ctrst up/down
