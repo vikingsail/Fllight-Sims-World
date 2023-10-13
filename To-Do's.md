@@ -15,6 +15,7 @@
 		- LB + ABXY, LB+RS
 		- RB + Dpad L/R, 
 		- LB+RB+RDpad, LB+RB+X, 
+		- [ ] countermeasure sw
 		- [x] AFK, airbrake, reverser on/off
 		- [x] FR22, FR24
 		- [x] AP ATT, HOJD, Eject
