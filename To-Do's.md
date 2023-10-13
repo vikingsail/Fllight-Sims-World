@@ -18,7 +18,7 @@
 		- [ ] countermeasure switches
 		- [ ] radar Cl filter
 		- [x] AFK, airbrake, reverser on/off
-		- [x] FR22, FR24
+		- [ ] FR22, FR24
 		- [x] AP ATT, HOJD, Eject
 		- [x] **- !weapon modes**
 		- [x] ?master modes
