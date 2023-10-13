@@ -13,7 +13,6 @@
 		- [ ] stick x-axis
 	- AJS-37 
 		- LB + ABXY, LB + Dpad, LB + RS
-		- RB + Dpad L/R, 
 		- LB+RB + RDpad, LB+RB + X, 
 		- [ ] countermeasure switches
 		- [ ] radar Cl filter
