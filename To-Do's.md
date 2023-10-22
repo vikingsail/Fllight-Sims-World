@@ -12,7 +12,7 @@
 		- [ ] D-pad left+right
 		- [ ] stick x-axis
 	- AJS-37 
-		- LB + ABXY, LB + Dpad, LB + RS,
+		- LB + ABXY, LB + Dpad, LB + LS,
 		- LB+RB + RDpad, LB+RB + X,
 		- [ ] countermeasure switches
 		- [ ] radar Cl filter
@@ -41,6 +41,7 @@
 ## Steam
 - ~~Mi-24P~~
 ## Webstore
+- F-14 + Supercarrier ????
 - ~~Persian Gulf 2000~~
 - ~~AJS-37 2400~~
 - MiG-21 2490
@@ -52,4 +53,4 @@
 We can transfer All your orders and serials from unused account to Main one.   
 In this case you should create a new ticket here : [https://www.digitalcombatsimulator.com/en/support/](https://www.digitalcombatsimulator.com/en/support/)  
 please choose the proper category - Game login problems   
-and write us information about your accounts and which account you want to use as Main.
+and write us information about your accounts and which account you want to use as M
