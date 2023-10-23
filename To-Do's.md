@@ -42,11 +42,11 @@
 - ~~Mi-24P~~
 ## Webstore
 - JF-17 (with 50% new customer discount) 3990 + MiG-21 2490/F-5E 2390
-- F-14 + Supercarrier ????
+- F-14 + Supercarrier (Su-33) ????
 - ~~Persian Gulf 2000~~
 - ~~AJS-37 2400~~
 - ~~Syria 2990~~
-- if enough Miles: ~~Su-27/F-15C~~/MiG-29 (need 6000 Miles)
+- if enough Miles: ~~Su-27/F-15C~~/MiG-29 (6000/7500 Miles)
 ![[Pasted image 20230906220035.png]]
 ## I have several accounts on DCS site, how to combine them?
 We can transfer All your orders and serials from unused account to Main one.   
