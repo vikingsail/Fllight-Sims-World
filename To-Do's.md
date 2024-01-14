@@ -42,7 +42,8 @@
 - ~~Mi-24P~~
 ## Webstore
 - JF-17 (with 50% new customer discount) 3990 + ~~F-5E 2390~~
-- F-14 + Supercarrier (Su-33) ????
+- Gazelle
+- F-14 + ~~Supercarrier (Su-33) ????~~
 - ~~Persian Gulf 2000~~
 - ~~AJS-37 2400~~
 - ~~Syria 2990~~
