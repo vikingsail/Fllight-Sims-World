@@ -11,7 +11,7 @@ https://wiki.ivao.aero/en/home/specialoperations/Documentation/brevity
 - Hostile: enemy (allowed to engage)
 - 
 - Nails: I'm illuminated by enemy radar (scan mode)
-- Spike: I'm being tracked by enemy radar
+- Spike: I'm being locked  by enemy radar
 - Mud Spike: SAM/AAA radar lock
 - Buddy Spike: friendly locked onto you
 - 
