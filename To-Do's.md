@@ -12,8 +12,8 @@
 		- [ ] D-pad left+right
 		- [ ] stick x-axis
 	- AJS-37 
-		- LB + ABXY, LB + Dpad, LB + LS,
-		- LB+RB + RDpad, LB+RB + X,
+		- ~~LB + ABXY, LB + Dpad, LB + LS,~~
+		- ~~LB+RB + RDpad, LB+RB + X,~~
 		- [ ] countermeasure switches
 		- [ ] radar Cl filter
 		- [x] AFK, airbrake, reverser on/off
