@@ -24,4 +24,5 @@ https://wiki.ivao.aero/en/home/specialoperations/Documentation/brevity
 - Picture: information from bullseye point
 - BRAA: bearing, range, altitude, aspect/azimuth
 
-**![](https://lh7-us.googleusercontent.com/uOBde2T61rSKauJv81b_-Sx74WsMOIOo5UZ2FCGhdkFDnDGuGAk23YDJMixnazQkqntXcE_AdUH_pk1gWGS4UfSynhG_DhplABG5TNz7enhIWI2bJmXMBZ2PhkFAs-qFg0PpKgJcNqUUWbeibCr_vQY)**
+**![](https://lh7-us.googleusercontent.com/uOBde2T61rSKauJv81b_-Sx74WsMOIOo5UZ2FCGhdkFDnDGuGAk23YDJMixnazQkqntXcE_AdUH_pk1gWGS4UfSynhG_DhplABG5TNz7enhIWI2bJmXMBZ2PhkFAs-qFg0PpKgJcNqUUWbeibCr_vQY)
+
