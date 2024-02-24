@@ -17,7 +17,7 @@
 		- [ ] countermeasure switches
 		- [ ] radar Cl filter
 		- [x] AFK, airbrake, reverser on/off
-		- [ ] FR22, FR24
+		- [x] FR22, FR24
 		- [x] AP ATT, HOJD, Eject
 		- [x] **- !weapon modes**
 		- [x] ?master modes
@@ -41,17 +41,17 @@
 ## Steam
 - ~~Mi-24P~~
 ## Webstore
-- JF-17 (with 50% new customer discount) 3990 + ~~F-5E 2390~~
+- [x] JF-17 (with 50% new customer discount) 3990 + ~~MiG-21bis 2390~~
 - Gazelle
 - F-14 + ~~Supercarrier (Su-33) ????~~
-- ~~Persian Gulf 2000~~
-- ~~AJS-37 2400~~
-- ~~Syria 2990~~
+- [x] ~~Persian Gulf 2000~~
+- [x] ~~AJS-37 2400~~
+- [x] ~~Syria 2990~~
 - if enough Miles: ~~Su-27/F-15C~~/MiG-29 (6000/7500 Miles)
 ![[Pasted image 20230906220035.png]]
 ## I have several accounts on DCS site, how to combine them?
 We can transfer All your orders and serials from unused account to Main one.   
-In this case you should create a new ticket here : [https://www.digitalcombatsimulator.com/en/support/](https://www.digitalcombatsimulator.com/en/support/)  
+In this case you should create a new ticket here: [https://www.digitalcombatsimulator.com/en/support/](https://www.digitalcombatsimulator.com/en/support/)  
 please choose the proper category - Game login problems   
 and write us information about your accounts and which account you want to use as Main.
 https://www.digitalcombatsimulator.com/en/support/faq/817/
