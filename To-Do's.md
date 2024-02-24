@@ -41,7 +41,8 @@
 ## Steam
 - ~~Mi-24P~~
 ## Webstore
-- [x] JF-17 (with 50% new customer discount) 3990 + ~~MiG-21bis 2390~~
+- JF-17 (with 50% new customer discount) 3990 
+ - [x] MiG-21bis 2390
 - Gazelle
 - F-14 + ~~Supercarrier (Su-33) ????~~
 - [x] ~~Persian Gulf 2000~~

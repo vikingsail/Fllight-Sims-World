@@ -11,14 +11,11 @@
             "id": "0bcd20c7d153cafc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "JF-17 HOTAS.canvas",
-                "viewState": {
-                  "x": 677.2701625013722,
-                  "y": 45.73849446177675,
-                  "zoom": -0.44354024586740604
-                }
+                "file": "To-Do's.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JF-17 HOTAS.canvas",
+                "file": "To-Do's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JF-17 HOTAS.canvas",
+                "file": "To-Do's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JF-17 HOTAS.canvas"
+                "file": "To-Do's.md"
               }
             }
           },
@@ -172,10 +169,10 @@
   },
   "active": "0bcd20c7d153cafc",
   "lastOpenFiles": [
+    "JF-17 HOTAS.canvas",
     "To-Do's.md",
     "MiG-21bis.md",
     "README.md",
-    "JF-17 HOTAS.canvas",
     "How the JF-17 was Born.canvas",
     "AJS-37 Viggen.md",
     "reference/Pasted image 20230906220035.png",
