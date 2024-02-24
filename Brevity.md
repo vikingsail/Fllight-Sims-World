@@ -26,3 +26,18 @@ https://wiki.ivao.aero/en/home/specialoperations/Documentation/brevity
 
 **![](https://lh7-us.googleusercontent.com/uOBde2T61rSKauJv81b_-Sx74WsMOIOo5UZ2FCGhdkFDnDGuGAk23YDJMixnazQkqntXcE_AdUH_pk1gWGS4UfSynhG_DhplABG5TNz7enhIWI2bJmXMBZ2PhkFAs-qFg0PpKgJcNqUUWbeibCr_vQY)
 
+- "pusk" (launch): releasing any guided or unguided weapon
+
+- "ushla"/"poshla" ("gone"/"gone away"): refers to a rocket/missile (feminine) released
+
+- "sbros" (release): emergency drop of tanks, bombs or other munition. Unlike in Lock on, seldom if ever used when releasing live bombs ("pusk" would be more appropriate).
+
+- "nebo" (sky): I am looking/focusing on an appropriate air target (on radar or or visually)
+
+- "zemlya": I am looking for an appropriate ground target
+
+- "vizhu tsel' ": target in sight
+
+- "poshel" (go): order or confirmation to engage
+
+- "rabotayu" (I'm working on): engagement clear and weapons ready to release.

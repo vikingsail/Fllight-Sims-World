@@ -54,3 +54,4 @@ We can transfer All your orders and serials from unused account to Main one. 
 In this case you should create a new ticket here : [https://www.digitalcombatsimulator.com/en/support/](https://www.digitalcombatsimulator.com/en/support/)  
 please choose the proper category - Game login problems   
 and write us information about your accounts and which account you want to use as Main.
+https://www.digitalcombatsimulator.com/en/support/faq/817/
