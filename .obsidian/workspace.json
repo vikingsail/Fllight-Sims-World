@@ -11,14 +11,11 @@
             "id": "0bcd20c7d153cafc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "JF-17 HOTAS.canvas",
-                "viewState": {
-                  "x": 579.818033696285,
-                  "y": 327.29785271105095,
-                  "zoom": -0.6787058869845219
-                }
+                "file": "BMS Info.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JF-17 HOTAS.canvas",
+                "file": "BMS Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JF-17 HOTAS.canvas",
+                "file": "BMS Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JF-17 HOTAS.canvas"
+                "file": "BMS Info.md"
               }
             }
           },
@@ -172,17 +169,19 @@
   },
   "active": "0bcd20c7d153cafc",
   "lastOpenFiles": [
+    "AJS-37 Viggen.md",
+    "BMS Info.md",
+    "BMS Bare-Minimum-Key-Bindings.md",
+    "reference/Pasted image 20240313095251.png",
     "To-Do's.md",
     "JF-17 HOTAS.canvas",
     "MiG-21bis.md",
     "README.md",
     "How the JF-17 was Born.canvas",
-    "AJS-37 Viggen.md",
     "reference/Pasted image 20230906220035.png",
     "reference/Pasted image 20230906220035.png.0.pdnSave",
     "Brevity.md",
     "DIY Gear.md",
-    "BMS.md",
     "reference/Pasted image 20231006131739.png",
     "reference/DCS JF-17 Flight Manual CN.pdf",
     "reference/Wingtip Sabre II.png",

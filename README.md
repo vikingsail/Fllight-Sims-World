@@ -10,7 +10,7 @@ It started as a JF-17 study notebook which slowly became my knowledge base for e
 ## Brevity code
 - [[Brevity]]
 ## BMS
-- [[BMS]]
+- [[BMS Info]]
 ## DIY
 - DIY Gear notes and ideas on [[DIY Gear]]
 ## Tuuvas
