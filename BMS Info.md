@@ -1,4 +1,8 @@
 ![[Pasted image 20240313095251.png]]
+![[Pasted image 20240317163113.png]]
+![[Pasted image 20240317163124.png]]
+![[Pasted image 20240317163146.png]]
+![[Pasted image 20240317163202.png]]
 
 *SimHotasPinkyShift* multiplier button (single): 
 - short press <200ms: normal button press
