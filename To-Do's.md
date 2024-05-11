@@ -1,4 +1,4 @@
-## To-Do
+	## To-Do
 - Heatblur Viggen: 
 	- chaff auto release with RWR/U22???
 	- ~~numpad 0 lacking animation~~
@@ -43,7 +43,6 @@
 ## Webstore
 - JF-17 (with 50% new customer discount) 3990 
  - [x] MiG-21bis 2390
-- Gazelle
 - Mirage F1
 - Mirage 2000
 - F-14 + ~~Supercarrier (Su-33) ????~~
